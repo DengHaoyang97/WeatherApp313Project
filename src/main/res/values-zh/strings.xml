@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="open">展開</string>
+    <string name="close">收起</string>
+    <string name="enter_city_name">請輸入英文城市名</string>
+    <string name="empty_input">輸入空</string>
+    <string name="search">查詢</string>
+    <string name="home">主頁</string>
+    <string name="sunrise">日出</string>
+    <string name="sunset">日落</string>
+    <string name="wind">風速</string>
+    <string name="pressure">氣壓</string>
+    <string name="humidity">濕度</string>
+    <string name="max_temp">最高氣溫：</string>
+    <string name="min_temp">最低氣溫：</string>
+    <string name="forecast">預報</string>
+    <string name="settings">設置</string>
+    <string name="tomorrow">明日</string>
+    <string name="today">今日</string>
+    <string name="measurement_units">計量單位：</string>
+    <string name="languages">語言：</string>
+    <string name="imperial">英制</string>
+    <string name="metric">公制</string>
+    <string name="title404">未查到任何內容</string>
+    <string name="msg404">請檢查拼寫</string>
+    <string name="about">關於</string>
+    <string name="us">我們</string>
+    <string name="aboutUsMsg">Members:    -----》Haoyang,  Haoran,  Yingci,  WuFei,  Yvjiao《-----               Thanks For Supporting Our  Thanks For Supporting Our Efforts!</string>
+    <string name="weather_forecast">未來天氣：</string>
+</resources>

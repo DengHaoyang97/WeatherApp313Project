@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="empty_input">Empty Input</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="max_temp">Max Temp:</string>
+    <string name="min_temp">Min Temp:</string>
+    <string name="forecast">Forecast</string>
+    <string name="settings">Settings</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="measurement_units">Measurement Units:</string>
+    <string name="languages">Languages:</string>
+    <string name="imperial">Imperial</string>
+    <string name="metric">Metric</string>
+    <string name="title404">Nothing Found</string>
+    <string name="msg404">Please Check Your Spelling</string>
+    <string name="about">About</string>
+    <string name="us">Us</string>
+    <string name="aboutUsMsg">Members:    -----》Haoyang,  Haoran,  Yingci,  WuFei,  Yvjiao《-----                Thanks For Supporting Our Efforts!</string>
+    <string name="weather_forecast">Weather Forecast:</string>
+</resources>
